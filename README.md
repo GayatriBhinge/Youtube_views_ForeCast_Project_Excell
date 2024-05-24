@@ -18,6 +18,13 @@ POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
 # Graphs
 
 ## Line Graph
+Here R² = 0.0.686, this value is more that 0.5 but do not have much confidance about forecast with this line graph.
+![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_LineGraph.PNG)
 
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_)
+## Exponentail Graph
+Here R² = 0.563, not much confidnace about forecast with this Expontail graph
+![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_exponential.PNG)
 
+## Polynomial Graph
+Here R² = 0.563, not much confidnace about forecast with this Expontail graph
+![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_PolynomialGraph.PNG)

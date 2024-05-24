@@ -19,5 +19,5 @@ POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
 
 ## Line Graph
 
-![App Screenshot]([https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_LineGraph.PNG))
+![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_)
 

@@ -26,5 +26,11 @@ Here R² = 0.563, not much confidnace about forecast with this Expontail graph
 ![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_exponential.PNG)
 
 ## Polynomial Graph
-Here R² = 0.563, not much confidnace about forecast with this Expontail graph
+Here R² = 0.782, this value is near to 1 so having 85% confidance about forecast with this polynomial graph.
 ![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_PolynomialGraph.PNG)
+
+
+# R² Values are important in Forecasting Data
+What is R² ?
+R-Squared (R² or the coefficient of determination) is a statistical measure in a regression model that determines the proportion of variance in the dependent variable that can be explained by the independent variable. In other words, r-squared shows how well the data fit the regression model (the goodness of fit). This values is always between 0 to 1.
+

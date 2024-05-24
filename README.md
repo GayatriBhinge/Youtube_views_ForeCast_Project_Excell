@@ -1,7 +1,7 @@
 
 # Excell Project | Youtube Views Forecast Data with Graphs
 
-This is biggner level project to analyze the youtube channel viewers database. Here I forcast data for next 7 days with help of the Excell skill, also try to provide  more accurate forecasting using R square value and different graphs, like, Line, Polynomial, exponential graph.
+This project is to analyze the youtube channel viewers database. Here I forcast data for next 7 days with help of the Excell skill, also try to provide  more accurate forecasting using R square value and different graphs, like, Line, Polynomial, exponential graph.
 
 ## Acknowledgements
 Thanks to Rishabh Mishra.

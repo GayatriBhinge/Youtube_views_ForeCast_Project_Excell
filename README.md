@@ -15,12 +15,9 @@ Hi, I'm Gayatri, and  I'm  passionate about Data Analytics and also pursuing a P
 POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
 
 
-## Grpahs
-##  Schema Used In This Project
+# Graphs
 
-<img align = "right" alt ="coding" width="400" 
-https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png>
-## Screenshots
+## Line Graph
 
-![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png)
+![App Screenshot]([https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_LineGraph.PNG))
 

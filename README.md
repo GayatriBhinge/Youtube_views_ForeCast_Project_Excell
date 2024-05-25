@@ -8,11 +8,11 @@ Thanks to Rishabh Mishra.
 
 
 ## 🚀 About Me
-Hi, I'm Gayatri, and  I'm  passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science Program.
+Hi, I'm Gayatri, and  as a data analyst, I'm  passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science. 
 
 
 ## 🛠 Skills
-POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
+POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYSING, EDA.
 
 
 # Graphs
